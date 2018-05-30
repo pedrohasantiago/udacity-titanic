@@ -30,8 +30,16 @@ https://stackoverflow.com/questions/6390393/matplotlib-make-tick-labels-font-siz
 Como fazer figuras maiores no Matplotlib:
 https://stackoverflow.com/questions/332289/how-do-you-change-the-size-of-figures-drawn-with-matplotlib
 
-Casas decimais nos preços dos tickets (comentário do Daniel Burrueco):
-https://www.kaggle.com/c/titanic/discussion/37630
+Box graph do Matplotlib com "whiskers" reduzidos:
+https://stackoverflow.com/questions/47309730/pandas-box-plot-error-on-one-datapoint
 
-Inconsistências nos preços dos tickets:
-https://www.kaggle.com/c/titanic/discussion/33087
+Outliers do box graph não aparecendo:
+https://stackoverflow.com/questions/28908003/matplotlib-box-plot-fliers-not-showing
+
+Como exibir a grade de um box graph no Matplotlib:
+https://stackoverflow.com/questions/23357798/how-to-draw-grid-lines-behind-matplotlib-bar-graph
+
+Como desativar o estilo do Seaborn:
+https://stackoverflow.com/questions/26899310/python-seaborn-to-reset-back-to-the-matplotlib
+
+
