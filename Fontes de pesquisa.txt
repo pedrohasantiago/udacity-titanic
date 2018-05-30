@@ -42,4 +42,5 @@ https://stackoverflow.com/questions/23357798/how-to-draw-grid-lines-behind-matpl
 Como desativar o estilo do Seaborn:
 https://stackoverflow.com/questions/26899310/python-seaborn-to-reset-back-to-the-matplotlib
 
-
+Funções lambda com if, elif e else:
+https://stackoverflow.com/questions/44991438/lambda-including-if-elif-else
