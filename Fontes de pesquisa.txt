@@ -39,6 +39,9 @@ https://stackoverflow.com/questions/28908003/matplotlib-box-plot-fliers-not-show
 Como exibir a grade de um box graph no Matplotlib:
 https://stackoverflow.com/questions/23357798/how-to-draw-grid-lines-behind-matplotlib-bar-graph
 
+Como retirar label do eixo x no Matplotlib:
+https://stackoverflow.com/questions/2176424/hiding-axis-text-in-matplotlib-plots
+
 Como desativar o estilo do Seaborn:
 https://stackoverflow.com/questions/26899310/python-seaborn-to-reset-back-to-the-matplotlib
 
