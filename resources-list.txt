@@ -1,27 +1,16 @@
 ﻿Como conferir se há valores vazios em um DataFrame do Pandas:
 https://stackoverflow.com/questions/29530232/how-to-check-if-any-value-is-nan-in-a-pandas-dataframe
 
-
-
 Como renumerar índices de um DataFrame:
-
 https://stackoverflow.com/questions/20490274/how-to-reset-index-in-a-pandas-data-frame
-
-
 
 Como localizar valores em um DataFrame com base no tipo do dado:
 https://stackoverflow.com/questions/39275533/select-row-from-a-dataframe-based-on-the-type-of-the-objecti-e-str
 
-
-
 Edição em um DataFrame afetando a cópia dele:
-
 https://stackoverflow.com/questions/47693021/editing-row-of-one-dataframe-appears-to-affect-another-pandas-python
 
-
-
 Como alterar tamanhos de gráficos de barra no Matplotlib:
-
 https://stackoverflow.com/questions/332289/how-do-you-change-the-size-of-figures-drawn-with-matplotlib
 
 Como alterar tamanho de fonte dos ticks do eixo x no Matplotlib:
