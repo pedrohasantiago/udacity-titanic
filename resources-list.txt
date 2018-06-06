@@ -45,3 +45,6 @@ https://stackoverflow.com/questions/28115637/how-to-better-fit-seaborn-violinplo
 
 Como mostrar percentuais e valores absolutos em pie charts do Matplotlib:
 https://stackoverflow.com/questions/6170246/how-do-i-use-matplotlib-autopct
+
+Como adicionar alturas das barras em gráfico de barras empilhadas do Matplotlib:
+https://stackoverflow.com/questions/21688028/displaying-totals-above-stacked-bars-in-barchart-matplotlib-pyplot
